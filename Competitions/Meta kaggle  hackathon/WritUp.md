@@ -35,6 +35,7 @@ This was the moment when abstract theory became real-world impact—when mathema
 > Since its emergence, this theory has undeniably contributed to a profound transformation in the world. Its influence has extended beyond academic discourse, shaping industries, technologies, and even the way we interact with information. In order to substantiate this claim, we turned to the world's most widely used search engine—Google. By utilizing the `pytrends` library, we retrieved longitudinal search interest data related to key concepts associated with the theory. This approach allowed us to trace how public attention evolved **before the theory’s introduction**, **during its golden age**, and **in the years that followed**, providing an indirect yet compelling signal of its societal and intellectual impact.
 > 
 ***Figure 1***
+
  <a href="https://ibb.co/sJRpw1hB"><img src="https://i.ibb.co/BK3HZ6m1/Figure-1-Google-Trends-NLP-vs-Transformer.png" alt="Figure-1-Google-Trends-NLP-vs-Transformer" border="0" /></a>
 
 
@@ -67,6 +68,7 @@ And we are about to see why.
 > **Transfer Learning** was a breakthrough in its own right — it opened new doors for **researchers, students, and academics alike**. At its core, the method relies on a *simple yet powerful idea*: instead of training models from scratch, one can **fine-tune a pre-trained model** — typically trained on similar data — by adjusting only the **final layers**. This **paradigm shift** was a revolution in itself, especially for **NLP**, as it combined *ease of use*, *time efficiency*, and *enhanced accuracy*. More importantly, it played a **crucial role** in the rise of the **Transformer architecture**. Given the **intensive training demands** of Transformer-based models, **Transfer Learning emerged as their primary enabler**, allowing the theory to **flourish** and **deliver on its full potential**.
 
 ***Figure 2***
+
 <a href="https://ibb.co/SwV8bk0B"><img src="https://i.ibb.co/F48M2QJz/Figure-2-Google-Trends-NLP-vs-Transfer-Learning.png" alt="Figure-2-Google-Trends-NLP-vs-Transfer-Learning" border="0" /></a>
 
 **Let us now take a closer look at the visualization (Figure 2)**
@@ -90,6 +92,7 @@ It a **symbiotic relationship**—much like that between a **king** and a **quee
 Here, we focus on one of the most **pivotal forces** behind this momentum: the ***rise in scientific publications*** during that year.
 
 ***Figure 3***
+
 <a href="https://ibb.co/8g8J88DP"><img src="https://i.ibb.co/zVf1ffhP/Figure-3-Ar-Xiv-The-Flourishing-of-NLP-Research.png" alt="Figure-3-Ar-Xiv-The-Flourishing-of-NLP-Research" border="0" /></a>
 
 
@@ -142,6 +145,7 @@ This **cyclical dynamic** is clearly reflected in both **arXiv** and the ***ACL 
 And so, we now dive into the evolution of **Kaggle notebooks**—a space where ***theory meets practice***, and ideas are turned into ***real-world workflows***.
 
 ***Figure 4*** 
+
 <a href="https://ibb.co/cS0bS4H8"><img src="https://i.ibb.co/mVkvVfwy/Figure-4-The-Flourishing-of-notebooks.png" alt="Figure-4-The-Flourishing-of-notebooks" border="0" /></a>
 
 **Let us now take a closer look at the visualization (Figure 4)**
@@ -191,6 +195,7 @@ In retrospect, **Transformers were not merely an improvement—they were the *tu
 ***And now, we’re about to see exactly how.***
 
 ***Figure 5***
+
 <a href="https://ibb.co/MxbDqGhs"><img src="https://i.ibb.co/B5mV8rPt/Figure-5-Notebook-Viewership-Flourishing-in-The-Golden-Age-of-Theory.png" alt="Figure-5-Notebook-Viewership-Flourishing-in-The-Golden-Age-of-Theory" border="0" /></a>
 
 **Let us now take a closer look at the visualization (Figure 5)**
@@ -225,6 +230,7 @@ They are the two poles of deep learning in the world, and now we’ll dive into 
 
 
 ***Figure 6***
+
 <a href="https://ibb.co/vCmghqmQ"><img src="https://i.ibb.co/qL9XCj9W/Figure-6-Tensor-Flow-vs-Py-Torch-Popularity-During-The-Golden-Age-of-Theory.png" alt="Figure-6-Tensor-Flow-vs-Py-Torch-Popularity-During-The-Golden-Age-of-Theory" border="0" /></a>
 
 **Let us now take a closer look at the visualization (Figure 6)**
@@ -274,6 +280,7 @@ In the end, **TensorFlow was like the wise old teacher**, who led the way in the
 That’s the **question** we’ll now begin to **explore**.
 
 ***Figure 7***
+
 <a href="https://ibb.co/355W3Txf"><img src="https://i.ibb.co/Pss4Lr2T/Figure-7-NLP-Subfields-Growth-During-The-Golden-Age-of-Theory-Ar-Xiv.png" alt="Figure-7-NLP-Subfields-Growth-During-The-Golden-Age-of-Theory-Ar-Xiv" border="0" /></a>
 
 **Let us now take a closer look at the visualization (Figure 7)**
@@ -298,6 +305,7 @@ but what about the ***applied world*?**
 it is only natural to witness these **research interests seamlessly spilling over** into the **applied world**.
 
 ***Figure 8***
+
 <a href="https://ibb.co/qYC7R2dv"><img src="https://i.ibb.co/wh7BK2Rf/Figure-8-Flourishing-of-NLP-Subfields-in-The-Golden-Age-of-Theory-on-kaggle.png" alt="Figure-8-Flourishing-of-NLP-Subfields-in-The-Golden-Age-of-Theory-on-kaggle" border="0" /></a>
 
 **Let us now take a closer look at the visualization (Figure 8)**
@@ -398,6 +406,7 @@ If one is to claim that **transformers outperform LSTMs**, such a claim must be 
 That is precisely why we witnessed **their flourishing during The Golden Age of Theory**.
 
 ***Figure 9*** 
+
 <a href="https://ibb.co/5hK9tXDt"><img src="https://i.ibb.co/d4mc1s91/Figure-9-Dataset-Flourishing-During-the-The-Golden-Age-of-Theory.png" alt="Figure-9-Dataset-Flourishing-During-the-The-Golden-Age-of-Theory" border="0" /></a>
 
 **Let us now take a closer look at the visualization (Figure 9)**
@@ -430,6 +439,7 @@ And what about **computer vision** *datasets?*
 > Certainly, these datasets have indeed garnered considerable attention; however, I have opted to rely on a more robust indicator—**TotalDownloads**—as concrete evidence of their impact. This metric offers a quantifiable measure of interest and utilization. Furthermore, we shall compare this with the level of attention received by datasets in the field of **computer vision**, providing a broader context for evaluation.
 
 ***Figure 10***
+
 <a href="https://ibb.co/vxcjGC3X"><img src="https://i.ibb.co/pv1L86fh/Figure-10-NLP-vs-CV-Dataset-Downloads-During-The-Golden-Age-of-Theory.png" alt="Figure-10-NLP-vs-CV-Dataset-Downloads-During-The-Golden-Age-of-Theory" border="0" /></a>
 
 **Let us now take a closer look at the visualization (Figure 10)**
@@ -480,6 +490,7 @@ The **role of datasets** was far from *ordinary* — they served as ***the found
 **But what about Topics?**
 
 ***Figure 11***
+
 <a href="https://ibb.co/bRgH1hRr"><img src="https://i.ibb.co/R4ph2n4C/Figure-11-NLP-vs-CV-Formula-Topics-During-The-Golden-Age-of-Theory.png" alt="Figure-11-NLP-vs-CV-Formula-Topics-During-The-Golden-Age-of-Theory" border="0" /></a>
 
 **Let us now take a closer look at the visualization (Figure 11)**
