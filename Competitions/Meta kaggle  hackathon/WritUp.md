@@ -1,8 +1,8 @@
 
 # I. Introduction: The Golden Age of Theory 
----
+
 ## Introduction
----
+
 Imagine leaving a person asleep in the year 1500 and waking them up in 1700. They would notice some changes—wars, geographical shifts, and a few revolutions—but they could likely adapt. Now imagine someone falling asleep in the year 2000 and waking up in 2025. They would feel as if they had awakened in paradise—overwhelmed by the sheer speed and magnitude of technological advancement.
 
 This writeup explores the "Golden Age of the Theory"—a period that marked the true golden era of Artificial Intelligence. At the heart of this transformation lies a groundbreaking theory: **Transformers**, introduced through the seminal paper *“Attention Is All You Need”*, submitted on **June 12, 2017**.
@@ -27,9 +27,9 @@ This was the moment when abstract theory became real-world impact—when mathema
 ---
 
 # II. The Flourishing of Public Attention During the The Golden Age of Theory— via Google Trends & ArXiv
----
+
 ## Google Trends: NLP vs Transformer
----
+
 #### The Reveal: What the Clues Say
 
 > Since its emergence, this theory has undeniably contributed to a profound transformation in the world. Its influence has extended beyond academic discourse, shaping industries, technologies, and even the way we interact with information. In order to substantiate this claim, we turned to the world's most widely used search engine—Google. By utilizing the `pytrends` library, we retrieved longitudinal search interest data related to key concepts associated with the theory. This approach allowed us to trace how public attention evolved **before the theory’s introduction**, **during its golden age**, and **in the years that followed**, providing an indirect yet compelling signal of its societal and intellectual impact.
@@ -62,7 +62,7 @@ And we are about to see why.
 ---
 
 ## Google Trends: NLP vs Transfer Learning
-----
+
 #### The Reveal: What the Clues Say
 > **Transfer Learning** was a breakthrough in its own right — it opened new doors for **researchers, students, and academics alike**. At its core, the method relies on a *simple yet powerful idea*: instead of training models from scratch, one can **fine-tune a pre-trained model** — typically trained on similar data — by adjusting only the **final layers**. This **paradigm shift** was a revolution in itself, especially for **NLP**, as it combined *ease of use*, *time efficiency*, and *enhanced accuracy*. More importantly, it played a **crucial role** in the rise of the **Transformer architecture**. Given the **intensive training demands** of Transformer-based models, **Transfer Learning emerged as their primary enabler**, allowing the theory to **flourish** and **deliver on its full potential**.
 
@@ -84,7 +84,7 @@ It a **symbiotic relationship**—much like that between a **king** and a **quee
 ---
 
 ## ArXiv: The Flourishing of NLP Research
----
+
 #### The Reveal: What the Clues Say
 > **The rapid surge after 2021 was no coincidence** — it was a logical outcome, largely driven by the **proliferation** and **maturity of *real-world applications*** built upon the theory, leading to the emergence of numerous models ***beyond BERT***.
 Here, we focus on one of the most **pivotal forces** behind this momentum: the ***rise in scientific publications*** during that year.
@@ -133,9 +133,9 @@ This **cyclical dynamic** is clearly reflected in both **arXiv** and the ***ACL 
 ---
 
 # III. The Flourishing of Kernels
----
+
 ## The Flourishing of Applied NLP Practices
----
+
 #### The Reveal: What the Clues Say
 > After such a surge in publications and the world’s deep immersion in a ***new analytical culture***, it was only natural that humans would not keep inventing without applying.
 **After all, can a drug be called a cure without being tested and practiced?**
@@ -185,7 +185,7 @@ In retrospect, **Transformers were not merely an improvement—they were the *tu
 ---
 
 ## Notebook Viewership Flourishing in the Theory’s Golden Age
----
+
 #### The Reveal: What the Clues Say
 >**Most certainly, these notebooks were far from meaningless — they did capture real attention.**
 ***And now, we’re about to see exactly how.***
@@ -217,7 +217,7 @@ Ultimately, this plot serves as ***strong evidence that the boom in Notebooks du
 ---
 
 ## TensorFlow vs. PyTorch Popularity During the Theory’s Golden Age
----
+
 #### The Reveal: What the Clues Say
 > **There must be supporting and driving frameworks for deep learning in general—and more specifically, in language and vision analysis.**
 These frameworks have been centered around two: the **first and older**, ***TensorFlow***, and the **second and newer,** ***PyTorch***.
@@ -266,7 +266,7 @@ In the end, **TensorFlow was like the wise old teacher**, who led the way in the
 ---
 
 ## The Flourishing of NLP Subfields During the Theory’s Golden Age — An Analysis of Research Publication Trends on arXiv
----
+
 #### The Reveal: What the Clues Say
 > There’s no doubt that the theory transformed the way we **approach language analysis**—and *soon after*, it began to **reshape** the world itself through models like ***ChatGPT***, which are entirely built upon it.
 *However*, all our analysis so far has **focused on Natural Language Processing as a whole**.
@@ -292,7 +292,7 @@ but what about the ***applied world*?**
 ---
 
 ## The Flourishing of NLP Subfields During the Golden Age of Theory - Practical Applications at Kaggle
----
+
 #### The Reveal: What the Clues Say
 > After the **explosive growth** and **peak in the number of research papers** across the **subfields of Natural Language Processing**,
 it is only natural to witness these **research interests seamlessly spilling over** into the **applied world**.
@@ -386,7 +386,6 @@ But during The Golden Age of Theory… did that foundation itself evolve?***
 
 # IV. The Flourishing of Datasets During The Golden Age of Theory
  
- ---
 #### The Reveal: What the Clues Say
 >Naturally, advancements in Natural Language Processing could not have unfolded without a parallel rise in the datasets that powered this growth.
 Without the **widespread availability and diversity** of supporting datasets, progress would have stalled—
@@ -402,7 +401,6 @@ That is precisely why we witnessed **their flourishing during The Golden Age of 
 <a href="https://ibb.co/5hK9tXDt"><img src="https://i.ibb.co/d4mc1s91/Figure-9-Dataset-Flourishing-During-the-The-Golden-Age-of-Theory.png" alt="Figure-9-Dataset-Flourishing-During-the-The-Golden-Age-of-Theory" border="0" /></a>
 
 **Let us now take a closer look at the visualization (Figure 9)**
-
 
 
 If we pause for a moment and look closely, the curve speaks for itself — there's hardly a need for intense analysis. The patterns are *loud and clear*.
@@ -427,7 +425,7 @@ And what about **computer vision** *datasets?*
 ---
 
 ## Dataset Download Flourishing in the Theory’s Golden Age
----
+
 #### The Reveal: What the Clues Say
 > Certainly, these datasets have indeed garnered considerable attention; however, I have opted to rely on a more robust indicator—**TotalDownloads**—as concrete evidence of their impact. This metric offers a quantifiable measure of interest and utilization. Furthermore, we shall compare this with the level of attention received by datasets in the field of **computer vision**, providing a broader context for evaluation.
 
@@ -474,9 +472,9 @@ The **role of datasets** was far from *ordinary* — they served as ***the found
 ---
 
 # V. The Flourishing of the Kaggle Community
----
+
 ## The Flourishing of Forum Topics During The Golden Age of Theory
----
+
 #### The Reveal: What the Clues Say
 > Certainly, it is only natural to expect a reaction from the Kaggle community—**and indeed, we witnessed it**: the **sharing of notebooks**, **the growing attention to them**, and similarly, **the interest in datasets**.
 **But what about Topics?**
@@ -500,9 +498,9 @@ Among the most influential developments was the launch of **[DALL·E 2](https://
 
 Following that spike, we observe the **inevitable decline**, which can be attributed to the **community gradually adapting to these groundbreaking technologies**, leading to a natural leveling-off of excitement.
 
----
+
 # VI. Bringing It All Together: The Big Picture Emerges
----
+
 In this write-up, we have  **traced and analyzed  _The Golden Age of Theory_**, examining its  **profound impact on scientific inquiry**  through platforms like  **Google Trends**  _and_  **ArXiv**. We also explored the  **conceptual foundations**  that supported this era, such as  **transfer learning**.
 
 We then followed the  **transformations within the applied community**  —  _(Kaggle)_  — starting from the  **evolution of notebooks**, moving through the  **development of frameworks and datasets**, and finally and finally to the  **forum topics**.
